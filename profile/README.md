@@ -1,1 +1,1 @@
-# 👋 Hi! We are Pixel Albatross
+![Pixel Albatross logo](../logos/logo.svg)
